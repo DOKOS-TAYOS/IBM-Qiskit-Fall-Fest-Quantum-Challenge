@@ -1,18 +1,24 @@
 Copyright (c) 2022 Alejandro Mata Ali (DOKOS-TAYOS)
 
-SCOPE OF THIS LICENSE
----------------------
-This repository contains a personal submission for the IBM Qiskit Fall Fest /
-USC Quantum Challenge. The MIT License below applies ONLY to the participant's
-original solution cells and other original code or text contributed by
-Alejandro Mata Ali / DOKOS-TAYOS.
+DUAL LICENSING
+--------------
+This repository uses a hybrid license:
 
-Challenge exercise statements ("enunciados"), instructional scaffolding,
-summaries, submission instructions, and any other materials authored by the
-original exercise authors or event organizers remain the copyright of their
-respective owners. Those third-party materials are NOT licensed under the MIT
-License, are NOT dedicated to the public domain, and are NOT relicensed by
-this repository. See NOTICE for known authors and attribution.
+1. MIT License (below) — applies ONLY to the participant's original
+   solution cells and other original code or text contributed by
+   Alejandro Mata Ali / DOKOS-TAYOS.
+
+2. Apache License, Version 2.0 — applies to redistributed challenge
+   starters, exercise text, instructional scaffolding, grader helpers
+   (including material inlined in `ex3.ipynb`), and other materials
+   derived from the upstream Qiskit Fall Fest USC 2022 repository:
+   https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022
+
+   Full Apache-2.0 license text: LICENSES/Apache-2.0.txt
+   Attribution and upstream details: NOTICE
+
+GitHub and SPDX consumers should treat this repository as hybrid / Other
+(MIT for participant originals; Apache-2.0 for upstream challenge material).
 
 MIT License
 -----------

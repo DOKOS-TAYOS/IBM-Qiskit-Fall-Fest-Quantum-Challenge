@@ -14,10 +14,13 @@ This repository is a portfolio record of participation. It is **not** affiliated
 
 ## Licensing
 
-- **Original solutions / code** by Alejandro Mata Ali are licensed under the MIT License in [`LICENSE`](LICENSE).
-- **Challenge exercise text and scaffolding** (problem statements, instructional markdown, and related materials) remain copyright of the original exercise authors and organizers. This repository does **not** relicense those materials and does **not** place them in the public domain.
-- See [`NOTICE`](NOTICE) for known third-party authors and attribution.
+This repository is **hybrid-licensed** (GitHub: Other / dual license):
+
+- **Participant original work** (solution cells and other original contributions by Alejandro Mata Ali) — [MIT License](LICENSE).
+- **Challenge starters / grader material** (exercise text, instructional scaffolding, grader helpers, including derivatives of the USC Fall Fest 2022 notebooks) — [Apache License 2.0](LICENSES/Apache-2.0.txt), from upstream [wyqian1027/Qiskit-Fall-Fest-USC-2022](https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022).
+
+See [`NOTICE`](NOTICE) for upstream credit, authors, and Apache-2.0 attribution.
 
 ## Disclaimer
 
-These notebooks mix third-party challenge materials with participant answers. Treat exercise text as third-party content; only clearly original solution work is covered by this repo's MIT license.
+These notebooks mix Apache-2.0 upstream challenge materials (modified derivatives) with participant answers. Only clearly original solution work is covered by the MIT license in this repository.

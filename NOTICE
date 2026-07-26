@@ -1,18 +1,22 @@
 Third-party challenge materials
 ===============================
 
-This repository includes Jupyter notebooks from an IBM Qiskit Fall Fest /
-USC Quantum Challenge. Those notebooks contain exercise text, instructional
-scaffolding, and related materials that were not authored by the repository
-owner.
+This repository redistributes Jupyter notebooks and related challenge /
+grader material derived from the IBM Qiskit Fall Fest USC 2022 starters:
 
-The challenge materials appear here for educational and portfolio purposes
-only. All rights in those materials remain with their respective owners.
-Nothing in this repository grants a license to copy, redistribute, or reuse
-the challenge exercise text beyond what the rights holders allow.
+  Upstream: https://github.com/wyqian1027/Qiskit-Fall-Fest-USC-2022
+  License:  Apache License, Version 2.0
+  Full text: LICENSES/Apache-2.0.txt
 
-Known exercise authors (from notebook headers / contacts)
----------------------------------------------------------
+The notebooks in this repository (`ex1.ipynb`, `ex2.ipynb`, `ex3.ipynb`)
+are modified derivatives of that upstream work. Exercise text,
+instructional scaffolding, grader helpers (including material inlined in
+`ex3.ipynb`), and related challenge content are covered by the Apache
+License, Version 2.0. Redistribution and use of those materials are
+subject to the Apache-2.0 terms; they are not unlicensed.
+
+Authors credited in the upstream / notebook materials
+-----------------------------------------------------
 
 - Wenyang Qian — author noted in `ex2.ipynb`
   Contact listed in notebook: qian.wenyang@usc.es
@@ -20,14 +24,19 @@ Known exercise authors (from notebook headers / contacts)
 - Juan Santos Suárez — author noted in `ex3.ipynb`
   Contact listed in notebook: juan.santos.suarez@rai.usc.es
 
-Additional organizer / submission contact found in notebooks
-------------------------------------------------------------
-
-- Meijian Li — submission contact in notebooks (`meijian.li@usc.es`)
+- Meijian Li — organizer / submission contact in notebooks
+  (`meijian.li@usc.es`)
 
 `ex1.ipynb` does not name an exercise author in its header; its challenge
-text and scaffolding are still treated as third-party organizer/author
-material, not as work licensed by this repository.
+text and scaffolding are still treated as Apache-2.0 upstream derivative
+material (not as MIT-licensed original work of this repository).
+
+Participant original work
+-------------------------
+
+Original solution cells and other original contributions by
+Alejandro Mata Ali (DOKOS-TAYOS) are licensed separately under the MIT
+License; see LICENSE.
 
 IBM, Qiskit, and Fall Fest names are used only to identify the event.
 This repository is not an official IBM, Qiskit, or USC project.
